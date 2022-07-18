@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = huseyin.cenkci@gmail.com
+	name = Huseyin Cenkci
